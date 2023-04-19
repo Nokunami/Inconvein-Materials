@@ -7,5 +7,3 @@ Two new materials, steel and diarkrite
 Catalogue support
 
 Tetra support
-
-Detail Armor Bar support
