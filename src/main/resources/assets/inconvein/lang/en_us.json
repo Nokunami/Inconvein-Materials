@@ -1,0 +1,35 @@
+{
+  "item.inconvein.coke": "Coke",
+  "item.inconvein.crude_steel": "Crude Steel",
+  "item.inconvein.steel_ingot": "Steel Ingot",
+  "item.inconvein.diarkrite_ingot": "Diarkrite Ingot",
+  "item.inconvein.ancient_metal_scrap": "Ancient Metal Scrap",
+
+  "item.inconvein.steel_sword": "Steel Sword",
+  "item.inconvein.steel_pickaxe": "Steel Pickaxe",
+  "item.inconvein.steel_axe": "Steel Axe",
+  "item.inconvein.steel_shovel": "Steel Shovel",
+  "item.inconvein.steel_hoe": "Steel Hoe",
+  "item.inconvein.diarkrite_sword": "Diarkrite Sword",
+  "item.inconvein.diarkrite_pickaxe": "Diarkrite Pickaxe",
+  "item.inconvein.diarkrite_axe": "Diarkrite Axe",
+  "item.inconvein.diarkrite_shovel": "Diarkrite Shovel",
+  "item.inconvein.diarkrite_hoe": "Diarkrite Hoe",
+
+  "item.inconvein.steel_helmet": "Steel Helmet",
+  "item.inconvein.steel_chestplate": "Steel Chestplate",
+  "item.inconvein.steel_leggings": "Steel Leggings",
+  "item.inconvein.steel_boots": "Steel Boots",
+  "item.inconvein.diarkrite_helmet": "Diarkrite Helmet",
+  "item.inconvein.diarkrite_chestplate": "Diarkrite Chestplate",
+  "item.inconvein.diarkrite_leggings": "Diarkrite Leggings",
+  "item.inconvein.diarkrite_boots": "Diarkrite Boots",
+
+  "block.inconvein.steel_block": "Block of Steel",
+  "block.inconvein.deepslate_coke_ore": "Deepslate Coke Ore",
+  "block.inconvein.deepslate_ancient_metal": "Deepslate Ancient Metal",
+  "block.inconvein.diarkrite_block": "Block of Diarkrite",
+
+  "tetra.material.steel": "Steel",
+  "tetra.material.diarkrite": "Diarkrite"
+}

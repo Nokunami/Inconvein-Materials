@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "inconvein:steel_leggings"
+  },
+  "addition": {
+    "item": "inconvein:diarkrite_ingot"
+  },
+  "result": {
+    "item": "inconvein:diarkrite_leggings"
+  }
+}

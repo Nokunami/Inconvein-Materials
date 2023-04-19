@@ -1,0 +1,27 @@
+{
+  "key": "steel",
+  "category": "metal",
+  "primary": 6.47,
+  "secondary": 3.2,
+  "tertiary": 3.5,
+  "durability": 716,
+  "integrityCost": 2,
+  "integrityGain": 6,
+  "magicCapacity": 86,
+  "toolLevel": "minecraft:diamond",
+  "toolEfficiency": 7,
+  "tints": {
+    "glyph": "b6b8ce",
+    "texture": "5b5d71"
+  },
+  "textures": [
+    "metal",
+    "defualt"
+  ],
+  "material": {
+    "items": [ "inconvein:steel_ingot" ]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:iron"
+  }
+}

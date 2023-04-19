@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "inconvein:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "inconvein:steel_block"
+  }
+}

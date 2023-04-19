@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": [
+    {
+      "item": "minecraft:coal"
+    }
+  ],
+  "result": "inconvein:coke",
+  "experience": 0.9,
+  "cookingtime": 600
+}

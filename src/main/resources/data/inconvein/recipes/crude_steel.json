@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:raw_iron"
+    },
+    {
+      "item": "minecraft:raw_iron"
+    },
+    {
+      "item": "inconvein:coke"
+    }
+  ],
+  "result": {
+    "item": "inconvein:crude_steel"
+  }
+}

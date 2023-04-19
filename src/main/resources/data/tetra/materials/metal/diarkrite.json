@@ -1,0 +1,27 @@
+{
+  "key": "diarkrite",
+  "category": "metal",
+  "primary": 7.76,
+  "secondary": 3.29,
+  "tertiary": 3.6,
+  "durability": 1678,
+  "integrityCost": 2,
+  "integrityGain": 9,
+  "magicCapacity": 90,
+  "toolLevel": "minecraft:netherite",
+  "toolEfficiency": 9,
+  "tints": {
+    "glyph": "797b86",
+    "texture": "59576b"
+  },
+  "textures": [
+    "heavy",
+    "metal"
+  ],
+  "material": {
+    "items": [ "inconvein:diarkrite_ingot" ]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:iron"
+  }
+}

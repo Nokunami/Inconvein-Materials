@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": [
+    {
+      "item": "inconvein:crude_steel"
+    }
+  ],
+  "result": "inconvein:steel_ingot",
+  "experience": 15.0,
+  "cookingtime": 12000
+}

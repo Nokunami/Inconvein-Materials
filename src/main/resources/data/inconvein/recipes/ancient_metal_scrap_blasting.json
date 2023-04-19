@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": [
+    {
+      "item": "inconvein:deepslate_ancient_metal"
+    }
+  ],
+  "result": "inconvein:ancient_metal_scrap",
+  "experience": 15.0,
+  "cookingtime": 18000
+}

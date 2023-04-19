@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "inconvein:diarkrite_block"
+    }
+  ],
+  "result": {
+    "item": "inconvein:diarkrite_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "inconvein:steel_block",
+    "inconvein:diarkrite_block",
+    "inconvein:deepslate_coke_ore",
+    "inconvein:deepslate_ancient_metal"
+  ]
+}

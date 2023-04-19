@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "inconvein:steel_block"
+    }
+  ],
+  "result": {
+    "item": "inconvein:steel_ingot",
+    "count": 9
+  }
+}
